@@ -1,0 +1,10 @@
+discord:
+  - token: lololol # Replace this with your discord bot token.
+pterodactyl:
+  - host: https://panel.idk.why # Replace this with your pterodactyl panel url. Please include the protocol (https/https)
+  - key: 12345678890abcdefghijklmnopqrstuvwxyz # Replace this with your pterodactyl api key.
+  - server: 1 # Replace this with the server id you want to monitor.
+  #- servers:
+  #    - 1:
+  #        - name: "Skyblock"
+  #        - id: 1
